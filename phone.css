@@ -1,0 +1,25 @@
+#navbar{
+    flex-direction: column;
+}
+
+#home{
+    padding: 2px 34px;
+    height: 720px;
+}
+
+#home p{
+    font-size: 1rem;
+}
+
+.clients img {
+    height: 70px;
+}
+
+.services{
+    flex-direction: column;
+}
+
+/* UTILITY CLASSESS */
+.h-primary{
+    font-size: 1.8rem;
+}
